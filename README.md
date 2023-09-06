@@ -24,8 +24,8 @@ It is encouraged to have mentors at the workshop to help add tips and answer que
 
 **15 mins** - *(presentation)* What is a CfP 
 - How to write a CfP (title, abstract, description, other information)
-= How to plan out a talk outline
-= Who is reviewing the CfP (You can be a reviewer too)
+- How to plan out a talk outline
+- Who is reviewing the CfP (You can be a reviewer too)
 
 **20 mins** - *(breakout room)* Make a very rough draft of the CfP using [this template](https://docs.google.com/document/d/1heW1mzf9HLwtbFXGhfqzfvpilpyeMdyh5g3B8EMHbFo/edit?usp=sharing)
 - Mentors help answer questions
