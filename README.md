@@ -1,6 +1,6 @@
 # Workshop about How to Submit a Call for Proposal
 
-Here is a 90-minute workshop outline to encourage the submission of call for proposal. This targeted new speakers, especially for folks who are underrepresented in the community. Feel free to take and use it to run a workshop yourself.
+Here is a 90-minute workshop outline to encourage the submission of Call for Proposal. This targeted new speakers, especially folks who are underrepresented in the community. Feel free to take and use it to run a workshop yourself.
 
 ## Host
 
