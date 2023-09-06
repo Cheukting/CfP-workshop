@@ -36,3 +36,6 @@ It is encouraged to have mentors at the workshop to help add tips and answer que
 - Thank you for joining (can sent out feedback form)
 - Any other questions 
 
+---
+
+Created by [Cheuk Ting Ho](https://github.com/Cheukting) under CC0-1.0 license
