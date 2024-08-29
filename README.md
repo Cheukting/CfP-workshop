@@ -38,4 +38,4 @@ It is encouraged to have mentors at the workshop to help add tips and answer que
 
 ---
 
-Created by [Cheuk Ting Ho](https://github.com/Cheukting) under CC0-1.0 license
+Created by [Cheuk Ting Ho](https://github.com/Cheukting) under CC0-1.0 license. Please consider sponsoring Cheuk's work via [GitHub Sponsor](https://github.com/sponsors/Cheukting).
